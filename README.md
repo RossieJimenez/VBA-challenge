@@ -21,7 +21,7 @@ This VBA script is designed to analyze stock data for multiple quarters within a
 ### Usage
 1. Open the Workbook:
 * Open the Excel workbook containing the stock data.
- <br/> 
+ <br> 
 2. Enable Macros:
 * If prompted, enable macros to allow the VBA script to run.
   <br/> 

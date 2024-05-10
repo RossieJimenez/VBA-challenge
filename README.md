@@ -8,8 +8,8 @@ This VBA script is designed to analyze stock data for multiple quarters within a
 * It outputs the ticker symbol, quarterly change, and percentage change in separate columns.
   
 2. Total Stock Volume:
-*The script calculates the total stock volume of each stock for the quarter.
-*It outputs the total stock volume in a separate column.
+* The script calculates the total stock volume of each stock for the quarter.
+* It outputs the total stock volume in a separate column.
 
 3. Conditional Formatting:
 * Positive changes are highlighted in green, while negative changes are highlighted in red using conditional formatting.
@@ -21,7 +21,7 @@ This VBA script is designed to analyze stock data for multiple quarters within a
 ### Usage
 1. Open the Workbook:
 * Open the Excel workbook containing the stock data.
-* 
+ <br/> 
 2. Enable Macros:
 * If prompted, enable macros to allow the VBA script to run.
   

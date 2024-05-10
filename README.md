@@ -4,8 +4,8 @@ This VBA script is designed to analyze stock data for multiple quarters within a
 
 ### Instructions
 1. Quarterly Change and Percentage Change:
-  * The script calculates the quarterly change and percentage change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
-  * It outputs the ticker symbol, quarterly change, and percentage change in separate columns.
+  - The script calculates the quarterly change and percentage change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
+  - It outputs the ticker symbol, quarterly change, and percentage change in separate columns.
   
 2. Total Stock Volume:
   * The script calculates the total stock volume of each stock for the quarter.

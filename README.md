@@ -24,11 +24,11 @@ This VBA script is designed to analyze stock data for multiple quarters within a
  <br/> 
 2. Enable Macros:
 * If prompted, enable macros to allow the VBA script to run.
-  
+  <br/> 
 3. Run the Script:
 * Navigate to the Developer tab and click on "Macros."
 * Select the "stocks_hw" macro and click "Run" to execute the script.
-  
+  <br/> 
 4. View Results:
 * The script will analyze the stock data and output the results in the specified columns.
 * Check the output for the quarterly change, percentage change, total stock volume, and stocks with the greatest changes.
@@ -37,8 +37,8 @@ This VBA script is designed to analyze stock data for multiple quarters within a
 * Moderate Solution:
   - The script has been enhanced to identify stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume.
 * Hard Solution:
-- The script is designed to run on every worksheet (quarter) within the workbook simultaneously, allowing for comprehensive analysis across multiple quarters.
+  - The script is designed to run on every worksheet (quarter) within the workbook simultaneously, allowing for comprehensive analysis across multiple quarters.
 * Conditional Formatting:
-** Ensure that conditional formatting is applied to highlight positive and negative changes for better visualization.
+  - Ensure that conditional formatting is applied to highlight positive and negative changes for better visualization.
 * Customization:
-** Modify the script as needed to accommodate specific requirements or additional functionalities.
+  - Modify the script as needed to accommodate specific requirements or additional functionalities.
